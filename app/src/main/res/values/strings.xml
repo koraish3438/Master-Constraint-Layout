@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MCL</string>
+    <string name="master_constraint_layout">Master Constraint Layout</string>
 </resources>
